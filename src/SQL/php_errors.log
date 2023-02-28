@@ -1,0 +1,6 @@
+[02-Feb-2023 23:29:14 UTC] PHP Warning:  Undefined array key 7 in /var/www/html/hpe/dump/cleanup.php on line 29
+[02-Feb-2023 23:29:14 UTC] PHP Stack trace:
+[02-Feb-2023 23:29:14 UTC] PHP   1. {main}() /var/www/html/hpe/dump/cleanup.php:0
+[02-Feb-2023 23:46:10 UTC] PHP Warning:  Undefined array key 7 in /var/www/html/hpe/dump/cleanup.php on line 39
+[02-Feb-2023 23:46:10 UTC] PHP Stack trace:
+[02-Feb-2023 23:46:10 UTC] PHP   1. {main}() /var/www/html/hpe/dump/cleanup.php:0

@@ -1,0 +1,25 @@
+{
+    "name": "victor/otimization",
+    "description": "Otimização do script de geração de estatisticas",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Lampada Global"
+        }
+    ],
+    "require": {
+        "mpdf/mpdf": "^6.1",
+        "ext-ncurses": "*",
+        "ext-mysqli": "*",
+        "ext-pdo": "*"
+    },
+    "require-dev": {
+        "symfony/var-dumper": "^6.2"
+    }
+}
